@@ -1,5 +1,10 @@
 # aiopty
 
+<p>
+    <a href="https://github.com/iyzyi/aiopty/releases"><img src="https://img.shields.io/github/release/iyzyi/aiopty.svg" alt="Latest Release"></a>
+    <a href="https://pkg.go.dev/github.com/iyzyi/aiopty"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="Go Docs"></a>
+    <a href="https://goreportcard.com/report/github.com/iyzyi/aiopty"><img src="https://goreportcard.com/badge/github.com/iyzyi/aiopty" alt="Go Report Card"></a>
+</p>
 
 (All in One) Pty & Terminal package for Go with an encrypted remote shell as example.
 
